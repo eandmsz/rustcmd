@@ -1,0 +1,32 @@
+Fork https://github.com/doublecmd/doublecmd
+Rewwrite FreePascal into Rust
+Change Qt/GTK to egui. (Lazarus based API might be easy to port)
+Keep WDX64 compatibility
+
+Fix bugs:
+Multirename: Selecting [N1:-18] range twice, second one overwrites the first
+Find Files: Results should not be a separate tab but under the settings
+Implement compare contents based on hash
+Implement better queue management (F2)
+
+https://github.com/doublecmd/doublecmd/issues/3071
+
+https://github.com/doublecmd/doublecmd/issues/3059
+
+https://github.com/doublecmd/doublecmd/issues/3062
+
+https://github.com/doublecmd/doublecmd/issues/2959
+
+https://github.com/doublecmd/doublecmd/issues/2947
+
+https://github.com/doublecmd/doublecmd/issues/2972
+
+https://github.com/doublecmd/doublecmd/issues/2737
+
+https://github.com/doublecmd/doublecmd/issues/2400
+
+https://github.com/doublecmd/doublecmd/issues/2278
+
+https://github.com/doublecmd/doublecmd/issues/2934
+
+
