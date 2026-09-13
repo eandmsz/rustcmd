@@ -11,7 +11,7 @@ Multirename: Selecting [N1:-18] range twice, second one overwrites the first
 Find Files: Results should not be a separate tab but under the settings
 Implement compare contents based on hash
 Implement better queue management (F2)
-Implement showing the progres bar on the takkbar icon (KDE, GNOME, XFCE, Cosmic). I think only KDE supports it as of 2026: the app has to report progress via that system (KJobs, or the org.kde.JobViewServer D-Bus interface)
+Implement showing the progres bar on the taskbar icon (KDE, GNOME, XFCE, Cosmic). I think only KDE supports it as of 2026: the app has to report progress via that system (KJobs, or the org.kde.JobViewServer D-Bus interface)
 
 https://github.com/doublecmd/doublecmd/issues/3071
 
@@ -32,5 +32,9 @@ https://github.com/doublecmd/doublecmd/issues/2400
 https://github.com/doublecmd/doublecmd/issues/2278
 
 https://github.com/doublecmd/doublecmd/issues/2934
+
+https://github.com/doublecmd/doublecmd/issues/2554
+
+https://github.com/doublecmd/doublecmd/issues/3092
 
 
